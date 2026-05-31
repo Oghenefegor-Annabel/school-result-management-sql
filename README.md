@@ -79,7 +79,7 @@ Stores student performance records.
 ---
 ## 🧱 Database Tables
 
-![Tables](Screenshot 2026-05-29 170450.png)
+![Tables](https://github.com/Oghenefegor-Annabel/school-result-management-sql/blob/main/Screenshot%202026-05-29%20170450.png?raw=true)
 
 # ⚙️ Features
 
