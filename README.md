@@ -79,7 +79,8 @@ Stores student performance records.
 ---
 ## 🧱 Database Tables
 
-![Tables](.png)
+![Tables](Screenshot 2026-05-29 170450.png)
+
 # ⚙️ Features
 
 * Automated result generation
